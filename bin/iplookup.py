@@ -9,7 +9,7 @@ import json
 
 class httpony:
 
-    def __init__(self, config, autoreload=False):
+    def __init__(self, config):
 
         self.config_path = config
         self.config = None
