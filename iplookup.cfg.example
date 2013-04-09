@@ -1,0 +1,2 @@
+[geoip]
+db=/path/to/iplookup-httpony/data/GeoIP.dat
