@@ -1,5 +1,4 @@
-iplookup-httpony
-==
+# plumbing-iplookup-server
 
 This is a stripped down verion of the Mozilla
 [geodude](https://github.com/mozilla/geodude) code which is a small
@@ -8,8 +7,7 @@ WSGI-compliant HTTPony for doing IP lookups.
 I (re)wrote this during a telco because it seemed like a useful thing to have
 around.
 
-How do I use this thing?
---
+## How do I use this thing?
 
 First fetch the [MaxMind GeoIP Country Lite
 database](http://dev.maxmind.com/geoip/geolite) by running:
